@@ -1,7 +1,6 @@
 from time import sleep
 
 def handler(robot_event):
-  raise Exception('NOPE')
   print(robot_event)
   print("Hello PowerFarm Cloud!")
   for i in range(100):
