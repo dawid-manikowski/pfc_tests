@@ -2,7 +2,7 @@ from time import sleep
 
 def handler(robot_event):
   print(robot_event)
-  print("Hello PowerFarm Cloudx2!")
+  print("Hello PowerFarm Cloudx3!")
   print("HABABABA")
   for i in range(100):
     sleep(1)
